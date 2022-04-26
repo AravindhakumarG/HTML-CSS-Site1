@@ -1,3 +1,2 @@
-# HTML-CSS-Site1
+# HTML-CSS-Simple Quiz Website
 
-Self Testing and sample web site develop
